@@ -12,7 +12,7 @@ This script makes it easy to generate those crucial SRI hashes!
 
 ## How to Use It
 
-1.  **Save the script:** Save the Python code as `generate_sri.py` in your project.
+1.  **Save the script:** Save the Python code as `generate_sri_v2.py` in your project.
 
 2.  **Run from your terminal:** Open your terminal or command prompt, navigate to where you saved the script, and run it using `python generate_sri.py`.
 
